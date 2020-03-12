@@ -1,5 +1,11 @@
 # BayesEcon
 
+This is an individual repository prepared for the book *Bayesian Econometrics* ([베이지안 계량경제학](http://faculty.korea.ac.kr/kufaculty/kyuho/index.do), 1e. 
+
+The author provides sample code in MatLab and I uploaded all the code examples I wrote and modified. It was originally a personal exercise purpose so the results and interpretations of my own are attached as well. If there's any difference from the original text, that's my correction. If you find any other error or mistake, please feel free to let me know.
+
+이 책에 수록된 코드가 매트랩이라 직접 수정하여 만들었습니다. 연습 차 작성해둔 것을 올려놓고 계속 작업하고 있습니다. 원문에 오타나 결과 해석의 오류가 있는 부분은 따로 수정을 하였습니다. 다른 실수나 에러가 발견되면 알려주세요.
+
 Source: Author's page [http://faculty.korea.ac.kr/kufaculty/kyuho/index.do]
 
 -------------
