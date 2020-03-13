@@ -6,7 +6,7 @@ The author provides sample code in MATLAB. I uploaded all the code examples I wr
 
 이 책에 수록된 코드가 매트랩이라 직접 수정하여 만들었습니다. 연습 차 작성해둔 것을 올려놓고 계속 작업하고 있습니다. 원문에 오타나 결과 해석의 오류가 있는 부분은 따로 수정을 하였습니다. 다른 실수나 에러가 발견되면 알려주세요.
 
-Source: 저자 홈페이지 [http://faculty.korea.ac.kr/kufaculty/kyuho/index.do]
+Source: [저자 홈페이지](http://faculty.korea.ac.kr/kufaculty/kyuho/index.do)
 
 -----------------------------
 # 세부 목차
@@ -28,8 +28,8 @@ Source: 저자 홈페이지 [http://faculty.korea.ac.kr/kufaculty/kyuho/index.do
 ### 2.2 완전 조건부 분포와 깁스 샘플링 . . . . . . . . . . . . . . . . . 30
 ####  2.2.1 완전 조건부 분포 . . . . . . . . . . . . . . . . . . . . . . . . . .30
 ####  2.2.2 깁스 샘플링 알고리즘 . . . . . . . . . . . . . . . . . . . . . . 31
-####  2.2.3 예: 유위험 이자율 평형식 추정 . . . . . . . . . . . . . . . 37
-####  2.2.4 예: 우리나라 물가상승률 예측 모형 . . . . . . . . . . . .40
+####  [2.2.3 예: 유위험 이자율 평형식 추정](https://github.com/mchoimis/BayesEcon/tree/master/2.2.3%20UIRP) . . . . . . . . . . . . . . . 37
+####  [2.2.4 예: 우리나라 물가상승률 예측 모형](https://github.com/mchoimis/BayesEcon/tree/master/2.2.4%20Inflation) . . . . . . . . . . . .40
 ### 2.3 깁스 샘플링을 이용한 구조변화모형 추정 . . . . . . . . . . 43
 ####  2.3.1 모형설정 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
 ####  2.3.2 사후 분포 샘플링 . . . . . . . . . . . . . . . . . . . . . . . . . .44
