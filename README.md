@@ -28,12 +28,12 @@ Source: [저자 홈페이지](http://faculty.korea.ac.kr/kufaculty/kyuho/index.d
 ### 2.2 완전 조건부 분포와 깁스 샘플링 . . . . . . . . . . . . . . . . . 30
 ####  2.2.1 완전 조건부 분포 . . . . . . . . . . . . . . . . . . . . . . . . . .30
 ####  2.2.2 깁스 샘플링 알고리즘 . . . . . . . . . . . . . . . . . . . . . . 31
-####  [2.2.3 예: 유위험 이자율 평형식 추정](https://github.com/mchoimis/BayesEcon/tree/master/2.2.3%20UIRP) . . . . . . . . . . . . . . . 37
-####  [2.2.4 예: 우리나라 물가상승률 예측 모형](https://github.com/mchoimis/BayesEcon/tree/master/2.2.4%20Inflation) . . . . . . . . . . . .40
+####  2.2.3 [예: 유위험 이자율 평형식 추정](https://github.com/mchoimis/BayesEcon/tree/master/2.2.3%20UIRP) . . . . . . . . . . . . . . . 37
+####  2.2.4 [예: 우리나라 물가상승률 예측 모형](https://github.com/mchoimis/BayesEcon/tree/master/2.2.4%20Inflation) . . . . . . . . . . . .40
 ### 2.3 깁스 샘플링을 이용한 구조변화모형 추정 . . . . . . . . . . 43
 ####  2.3.1 모형설정 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
 ####  2.3.2 사후 분포 샘플링 . . . . . . . . . . . . . . . . . . . . . . . . . .44
-####  2.3.3 예: 유위험 이자율 평형식의 구조변화시점 추정 . . 47
+####  2.3.3 [예: 유위험 이자율 평형식의 구조변화시점 추정](https://github.com/mchoimis/BayesEcon/tree/master/2.3.3%20UIRP_break) . . 47
 ### 2.4 깁스 샘플링의 한계 . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
  
 ## 3장 몬테 까를로 시뮬레이션 51 
@@ -43,11 +43,11 @@ Source: [저자 홈페이지](http://faculty.korea.ac.kr/kufaculty/kyuho/index.d
 ### 3.3 Acceptance-Rejection Method . . . . . . . . . . . . . . . . . . .58
 ####  3.3.1 시뮬레이션 방법 . . . . . . . . . . . . . . . . . . . . . . . . . . 59
 ####  3.3.2 이론적 배경 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .62
-####  3.3.3 예: 베타 분포 샘플링 . . . . . . . . . . . . . . . . . . . . . . .63
+####  3.3.3 [예: 베타 분포 샘플링](https://github.com/mchoimis/BayesEcon/tree/master/3.3.3%20Accept_Reject) . . . . . . . . . . . . . . . . . . . . . . .63
 ### 3.4 Importance 샘플링 . . . . . . . . . . . . . . . . . . . . . . . . . . . .65
 ####  3.4.1 시뮬레이션 방법 . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 ####  3.4.2 이론적 배경 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .66
-####  3.4.3 예: Importance 샘플링으로 EX [g(X)] 근사하기 . . 68
+####  3.4.3 [예: Importance 샘플링으로 EX [g(X)] 근사하기](https://github.com/mchoimis/BayesEcon/tree/master/3.4.3%20Importance_Sampling) . . 68
  
 ## 4장 Metropolis-Hastings 알고리즘 71 
 ### 4.1 Metropolis-Hastings 알고리즘의 소개 . . . . . . . . . . . . . 71
@@ -67,7 +67,7 @@ Source: [저자 홈페이지](http://faculty.korea.ac.kr/kufaculty/kyuho/index.d
 ### 4.6 고급 Metropolis-Hastings 알고리즘: Tailored M-H 기법. . 92
 ####  4.6.1 Tailored Independent M-H method . . . . . . . . . . . . 92
 ####  4.6.2 Tailored Dependent M-H method . . . . . . . . . . . . . 95
-### 4.7 예: M-H 기법을 이용한 선형회귀식 추정 . . . . . . . . . . . 98
+### 4.7 [예: M-H 기법을 이용한 선형회귀식 추정](https://github.com/mchoimis/BayesEcon/tree/master/4.7%20MH_Simulation_Study) . . . . . . . . . . . 98
 ####  4.7.1 임의보행 M-H 기법 . . . . . . . . . . . . . . . . . . . . . . . . 98
 ####  4.7.2 단블록 Tailored Independent M-H 기법 . . . . . . . . .100
 ####  4.7.3 단블록 Tailored Dependent M-H 기법 . . . . . . . . . .100
@@ -85,7 +85,7 @@ Source: [저자 홈페이지](http://faculty.korea.ac.kr/kufaculty/kyuho/index.d
 ### 6.1 오차항이 스튜던트-t 분포인 다중선형회귀모형 . . . . . . 115
 ####  6.1.1 모형 설정 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
 ####  6.1.2 사후 샘플링 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
-####  6.1.3 예: 오차항이 스튜던트-t 분포인 유위험 이자율 평형설 추정 . . . 119
+####  6.1.3 [예: 오차항이 스튜던트-t 분포인 유위험 이자율 평형설 추정](https://github.com/mchoimis/BayesEcon/tree/master/6.1.3%20UIRP_t_error) . . . 119
 ### 6.2 프라빗 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
 ####  6.2.1 모형 설정 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
 ####  6.2.2 사후 샘플링 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .122
